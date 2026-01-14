@@ -1,4 +1,4 @@
-# MIPHI Microservices Demo — Система бронирований отелей
+# HotelBookingService — Система бронирований отелей
 
 Многомодульный пример распределённого приложения на Spring Boot/Cloud:
 - API Gateway (Spring Cloud Gateway)
